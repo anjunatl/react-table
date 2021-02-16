@@ -18,7 +18,7 @@
     "react-table",
     "datagrid"
   ],
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "is-ci \"test:ci\" \"test:dev\"",
     "test:dev": "jest --watch",
